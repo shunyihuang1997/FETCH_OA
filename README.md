@@ -4,5 +4,5 @@
 
 
 # Analysis Plot
-![](./Analysis plot/age_category_platform_source.png)
-![](./Analysis plot/gender_platform_source.png)
+![](./Python_plot/age_category_platform_source.png)
+![](./Python_plot/gender_platform_source.png)
