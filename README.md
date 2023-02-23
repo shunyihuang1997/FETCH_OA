@@ -1,6 +1,6 @@
 # ERD & RDM
-![](./ERD.drawio.png)
-![](./RDBM.drawio.png)
+![](./ERD_RDM/ERD.drawio.png)
+![](./ERD_RDM/RDBM.drawio.png)
 
 
 # Analysis Plot
